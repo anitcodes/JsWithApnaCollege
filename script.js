@@ -113,6 +113,11 @@ const product = {
 
 // Chapter 3:- Loops in JS
 
+//for loop
+// for(let i=0; i<=5; i++){
+//     console.log(i)
+// }
+
 
 
 // Chapter 6:- DOM 
